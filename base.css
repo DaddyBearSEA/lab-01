@@ -4,18 +4,22 @@
   font-size: large;
   width: 480px;
   box-sizing: border-box;
+  position: relative;
 }
+
 
 header > div > p{
   width: 480px;
   margin: 0px auto;
+  text-align: center;
+    
 }
-
 
 div {
   outline: 1px dotted green;
-  width: 480px;
-  margin: 0px auto;
+  /* width: 480px; */
+  /* height: 75px; */
+  /* margin: 0px auto; */
   
 }
 footer{
