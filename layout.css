@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+}
+
+
+.boxa  p{
+  height: 200px;
+  margin-top: 50px;
+}
+
+/* .boxb{
+  height: 105px;
+  width: 480px;
+} */
+
+/* .boxc .boxd {
+  height: 125px;
+  width: 480px;
+} */

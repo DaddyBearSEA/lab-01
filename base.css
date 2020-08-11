@@ -1,0 +1,23 @@
+* {
+  background-color: wheat;
+  color: #111122;
+  font-size: large;
+  width: 480px;
+  box-sizing: border-box;
+}
+
+header > div > p{
+  width: 480px;
+  margin: 0px auto;
+}
+
+
+div {
+  outline: 1px dotted green;
+  width: 480px;
+  margin: 0px auto;
+  
+}
+footer{
+  outline: 1px dotted greenyellow;
+}
