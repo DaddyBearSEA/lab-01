@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+/* start of mobile code */
+
+@media only screen and (max-width: 760px) {
+
 * {
   background-color: wheat;
   color: #111122;
@@ -46,4 +59,5 @@ div {
 footer{
   outline: 1px dotted black;
   background-color: rgb(137, 180, 115);
+  }
 }

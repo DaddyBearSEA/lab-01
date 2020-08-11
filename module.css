@@ -1,3 +1,10 @@
+
+
+
+/* Start mobile styel */
+
+@media only screen and (max-width: 760px) {
+
 * {
   box-sizing: border-box;
   position: relative;
@@ -23,4 +30,6 @@
 
 footer {
   display: inline-block;
+}
+
 }
